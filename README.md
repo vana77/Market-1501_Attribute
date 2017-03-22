@@ -1,5 +1,7 @@
 # Market-1501_Attribute
 
+The evaluation code will be add soon.
+
 ## About dataset
 We annotate 27attributes for [Market-1501](http://www.liangzheng.org/Project/project_reid.html). 
 The original dataset contains 751 identities for training and 750 identities for testing. 
