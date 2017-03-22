@@ -4,7 +4,7 @@
 We annotate 27attributes for [Market-1501](http://www.liangzheng.org/Project/project_reid.html). 
 The original dataset contains 751 identities for training and 750 identities for testing. 
 The attributes are annotated in the identity level, 
-thus the file contains 27x751 attributes for training and 27x750 for test.
+thus the file contains 27 x 751 attributes for training and 27 x 750 attributesfor test.
 
 The 27 attributes are: 
 
@@ -16,9 +16,9 @@ The 27 attributes are:
 | length of lower-body clothing | down | long lower body clothing(1), short(2)    |
 | type of lower-body clothing| clothes| dress(1), pants(2)    |
 | wearing hat| hat | no(1), yes(2) |
-| carring backpack| backpack | no(1), yes(2) |
-| carring bag| bag | no(1), yes(2) |
-| carring handbag| handbag | no(1), yes(2) |
+| carrying backpack| backpack | no(1), yes(2) |
+| carrying bag| bag | no(1), yes(2) |
+| carrying handbag| handbag | no(1), yes(2) |
 | age| age | young(1), teenager(2), adult(3), old(4) |
 | 8 color of upper-body clothing| upblack, upwhite, upred, uppurple, upyellow, upgray, upblue, upgreen | no(1), yes(2) |
 | 9 color of lower-body clothing| downblack, downwhite, downred, downpurple, downyellow, downgray, downblue, downgreen | no(1), yes(2) |
