@@ -25,9 +25,15 @@ The 27 attributes are:
 | 8 color of upper-body clothing| upblack, upwhite, upred, uppurple, upyellow, upgray, upblue, upgreen | no(1), yes(2) |
 | 9 color of lower-body clothing| downblack, downwhite, downred, downpurple, downyellow, downgray, downblue, downgreen | no(1), yes(2) |
 
+Note that the though there are 8 and 9 attributes for upper-body clothing and lower-body clothing, only one color is labeled as yes (2) for an identity.
+
 ## Sample
 
 ![](sample_image.jpg)
+
+## Evaluation
+
+To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 matrix) and save them in advance. "gallery_market.mat" is one prediction example. Then download the code "evaluate_market_attribute.m" in this repository, change the image path and run it to evaluate.
 
 ## cite
 
