@@ -1,6 +1,7 @@
 %clear;
 clear;
 pp = '/home/yutian/re-id/dataset/market1501/bounding_box_test/*.jpg';
+%% change ID-level attribute to instance-level attribute
 load('market_attribute.mat');
 file = dir(pp);
 counter_data=1;
@@ -53,7 +54,7 @@ for i=1:length(file)
         counter_data = counter_data + 1;
     end
 end
-
+%% evaluate
 load('gallery_market.mat')
 temp1 = 0;temp2 = 0;temp3 = 0;temp4 = 0;temp5 = 0;temp6 = 0;temp7 = 0;temp8 = 0;
 temp9 = 0; temp10 = 0;temp11 = 0; temp12 = 0;
