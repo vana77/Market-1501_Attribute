@@ -33,7 +33,10 @@ Note that the though there are 8 and 9 attributes for upper-body clothing and lo
 
 ## Evaluation
 
-To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 matrix) and save them in advance. "gallery_market.mat" is one prediction example. Then download the code "evaluate_market_attribute.m" in this repository, change the image path and run it to evaluate.
+To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 matrix) and save them in advance. "gallery_market.mat" is one prediction example. For attribute recognition:
+(1)Run `pre_market_test.m` to generate ground truth attribute result.
+(2)Run `predict_atteibute_market.m` to predict attributes and calculate accuracy.
+
 
 ## cite
 
