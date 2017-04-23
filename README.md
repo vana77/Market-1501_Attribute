@@ -23,7 +23,7 @@ The 27 attributes are:
 | carrying handbag| handbag | no(1), yes(2) |
 | age| age | young(1), teenager(2), adult(3), old(4) |
 | 8 color of upper-body clothing| upblack, upwhite, upred, uppurple, upyellow, upgray, upblue, upgreen | no(1), yes(2) |
-| 9 color of lower-body clothing| downblack, downwhite, downred, downpurple, downyellow, downgray, downblue, downgreen | no(1), yes(2) |
+| 9 color of lower-body clothing| downblack, downwhite, downpink, downpurple, downyellow, downgray, downblue, downgreen,downbrown | no(1), yes(2) |
 
 Note that the though there are 8 and 9 attributes for upper-body clothing and lower-body clothing, only one color is labeled as yes (2) for an identity.
 
