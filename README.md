@@ -42,7 +42,7 @@ If you use this dataset in your research, please kindly cite our work as,
 ```
 @article{lin2017improving,
   title={Improving Person Re-identification by Attribute and Identity Learning},
-  author={lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu Yu and, Yang, Yi},
+  author={Lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu Yu and, Yang, Yi},
   journal={arXiv preprint arXiv:1703.07220},
   year={2017}
 }
