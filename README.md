@@ -46,6 +46,13 @@ If you use this dataset in your research, please kindly cite our work as,
   journal={arXiv preprint arXiv:1703.07220},
   year={2017}
 }
+
+@inproceedings{zheng2015scalable,
+  title={Scalable Person Re-identification: A Benchmark},
+  author={Zheng, Liang and Shen, Liyue and Tian, Lu and Wang, Shengjin and Wang, Jingdong and Tian, Qi},
+  booktitle={Computer Vision, IEEE International Conference on},
+  year={2015}
+}
 ```
 
 ## Acknowledgement
