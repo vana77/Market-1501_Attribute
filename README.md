@@ -36,7 +36,7 @@ Note that the though there are 8 and 9 attributes for upper-body clothing and lo
 To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 matrix) and save them in advance. "gallery_market.mat" is one prediction example. Then download the code "evaluate_market_attribute.m" in this repository, change the image path and run it to evaluate.
 
 
-## cite
+## citation
 
 If you use this dataset in your research, please kindly cite our work as,
 ```
@@ -47,7 +47,24 @@ If you use this dataset in your research, please kindly cite our work as,
   year={2017}
 }
 ```
-
+DukeMTMC Dataset:
+```
+@inproceedings{ristani2016MTMC,
+  title =        {Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking},
+  author =       {Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo},
+  booktitle =    {European Conference on Computer Vision workshop on Benchmarking Multi-Target Tracking},
+  year =         {2016}
+}
+```
+Market-1501 Dataset:
+```
+@inproceedings{zheng2015scalable,
+  title={Scalable person re-identification: A benchmark},
+  author={Zheng, Liang and Shen, Liyue and Tian, Lu and Wang, Shengjin and Wang, Jingdong and Tian, Qi},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  year={2015}
+}
+```
 ## Acknowledgement
 
 We thank Dr. Gao for annotating part of the dataset.
