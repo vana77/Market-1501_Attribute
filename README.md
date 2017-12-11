@@ -47,15 +47,6 @@ If you use this dataset in your research, please kindly cite our work as,
   year={2017}
 }
 ```
-DukeMTMC Dataset:
-```
-@inproceedings{ristani2016MTMC,
-  title =        {Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking},
-  author =       {Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo},
-  booktitle =    {European Conference on Computer Vision workshop on Benchmarking Multi-Target Tracking},
-  year =         {2016}
-}
-```
 Market-1501 Dataset:
 ```
 @inproceedings{zheng2015scalable,
