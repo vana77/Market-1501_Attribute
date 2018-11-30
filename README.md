@@ -6,7 +6,7 @@ The evaluation code will be added soon.
 We annotate 27attributes for [Market-1501](http://www.liangzheng.org/Project/project_reid.html). 
 The original dataset contains 751 identities for training and 750 identities for testing. 
 The attributes are annotated in the identity level, 
-thus the file contains 27 x 751 attributes for training and 27 x 750 attributesfor test.
+thus the file contains 27 x 751 attributes for training and 27 x 750 attributesfor testing.
 
 The 27 attributes are: 
 
@@ -36,7 +36,7 @@ Note that the though there are 8 and 9 attributes for upper-body clothing and lo
 To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 matrix) and save them in advance. "gallery_market.mat" is one prediction example. Then download the code "evaluate_market_attribute.m" in this repository, change the image path and run it to evaluate.
 
 
-## citation
+## Citation
 
 If you use this dataset in your research, please kindly cite our work as,
 ```
