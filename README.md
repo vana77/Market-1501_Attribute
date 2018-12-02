@@ -6,7 +6,7 @@ The evaluation code will be added soon.
 We annotate 27attributes for [Market-1501](http://www.liangzheng.org/Project/project_reid.html). 
 The original dataset contains 751 identities for training and 750 identities for testing. 
 The attributes are annotated in the identity level, 
-thus the file contains 27 x 751 attributes for training and 27 x 750 attributesfor test.
+thus the file contains 28 x 751 attributes for training and 28 x 750 attributesfor test, where the label "image_index" denotes the identity. The annotations are contained in the file market_attribute.mat.
 
 The 27 attributes are: 
 
