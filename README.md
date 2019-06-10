@@ -40,11 +40,12 @@ To evaluate, you need to predict the attributes for test data(i.e., 13115 x 12 m
 
 If you use this dataset in your research, please kindly cite our work as,
 ```
-@article{lin2017improving,
+@article{lin2019improving,
   title={Improving Person Re-identification by Attribute and Identity Learning},
-  author={Lin, Yutian and Zheng, Liang and Zheng, Zhedong and, Wu, Yu and, Yang, Yi},
-  journal={arXiv preprint arXiv:1703.07220},
-  year={2017}
+  author={Lin, Yutian and Zheng, Liang and Zheng, Zhedong and Wu, Yu and Hu, Zhilan and Yan, Chenggang and Yang, Yi},
+  journal={Pattern Recognition},
+  doi = {https://doi.org/10.1016/j.patcog.2019.06.006},
+  year={2019}
 }
 ```
 Market-1501 Dataset:
